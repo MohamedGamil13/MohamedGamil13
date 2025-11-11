@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/9f76816e6f41c739e97a8a64162979baa09c8560b4edf1ff099b03d1c39a5444/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f793961613337624979573441414141432f677574732d6265727365726b2d6265727365726b2e676966"  />
+<img align="right" height="200" src="https://camo.githubusercontent.com/9f76816e6f41c739e97a8a64162979baa09c8560b4edf1ff099b03d1c39a5444/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f793961613337624979573441414141432f677574732d6265727365726b2d6265727365726b2e676966" />
 
 ###
 
@@ -38,7 +38,7 @@
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   
-  <br><br>
+
 
   <!-- ⚙️ Frameworks & Technologies -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
@@ -47,7 +47,7 @@
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
 
-  <br><br>
+
 
   <!-- 🛠 Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo" />

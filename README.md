@@ -1,12 +1,12 @@
 <!--  
 ⚠️ This portfolio was built with dedication and effort by Mohamed Gamil.
-If you use or refer to this project, please give proper credit. Thanks for your consideration, & best of luck 🚀
+If you use or refer to this project, please give proper credit. Thanks & best of luck 🚀
 -->
 
-<h1 align="center">👋 Hello World! I'm Mohamed</h1>
+<h1 align="center">👋 Hello World! I'm Mohamed Gamil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Flutter+Developer;Mobile+&+Backend;Tech+Enthusiast;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Flutter+Developer;Mobile+Developer;Backend+Enthusiast;Continuous+Learner" />
 </p>
 
 <p align="center">
@@ -19,6 +19,9 @@ If you use or refer to this project, please give proper credit. Thanks for your 
   <a href="https://drive.google.com/drive/u/0/folders/1PafV085Lep3y6F4-HMqkJnSte3sZXDxn">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
+  <a href="mailto:mohamed.gamil.khalaf1@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -29,9 +32,11 @@ If you use or refer to this project, please give proper credit. Thanks for your 
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 </p>
 
-- 🌱 I'm a passionate **Flutter & Backend Developer** who loves programming in general.
-- 💻 Currently a **Computer Science Student** at **Ain Shams University**, Level 3 — IS Department.
-- 📫 How to reach me: **mohamed.gamil.khalaf1@gmail.com**
+- 🌱 Passionate about **Mobile & Backend Development**
+- 💙 Love programming and building real-world applications
+- 🎓 Computer Science Student at **Ain Shams University**
+- 🏫 Level 3 — Information Systems Department
+- 📫 Reach me at: **mohamed.gamil.khalaf1@gmail.com**
 
 ---
 
@@ -51,16 +56,16 @@ If you use or refer to this project, please give proper credit. Thanks for your 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedGamil13&show_icons=true&locale=en&layout=compact&theme=radical" alt="MohamedGamil13" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedGamil13&show_icons=true&locale=en&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedGamil13&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedGamil13&theme=dark" />
 </p>
 
 ---
 
-### 🎮 Let's Connect!
+### 🚀 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamedgamil13/">
@@ -75,5 +80,5 @@ If you use or refer to this project, please give proper credit. Thanks for your 
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="450px"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500px"/>
 </p>

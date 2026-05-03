@@ -55,9 +55,7 @@ If you use or refer to this project, please give proper credit. Thanks & best of
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedGamil13&show_icons=true&locale=en&layout=compact&theme=radical" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedGamil13&theme=dark" />

@@ -6,7 +6,7 @@ If you use or refer to this project, please give proper credit. Thanks & best of
 <h1 align="center">👋 Hello World! I'm Mohamed Gamil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Flutter+Developer;Mobile+Developer;Backend+Enthusiast;Continuous+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Flutter+Developer;Software+Engineer;Backend+Engineer;Continuous+Learner" />
 </p>
 
 <p align="center">

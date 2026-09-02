@@ -6,7 +6,7 @@ If you use or refer to this project, please give proper credit. Thanks & best of
 <h1 align="center">👋 Hello World! I'm Mohamed Gamil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=500&lines=Flutter+%26+Mobile+Architect;Java+%26+Spring+Boot+Developer;Systems+%26+Backend+Engineer;Continuous+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=500&lines=Flutter+%26+Mobile+Developer;.NET+%26+Backend+Developer;Systems+%26+Backend+Engineer;Continuous+Learner" />
 </p>
 
 <p align="center">
@@ -32,34 +32,38 @@ If you use or refer to this project, please give proper credit. Thanks & best of
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 </p>
 
-- 🎓 **Computer Science Student** at **Ain Shams University** (Expected Grad: July 2027)
-- 🚀 Specialized in **Cross-Platform Mobile Development (Flutter)** & **Java Backend (Spring Boot)**
-- 💻 Experienced in **Low-Level Systems, Memory Management, Operating Systems, & System Design**
-- 📜 **DEPI Graduate** — Cross-Platform Mobile Track (Digital Egypt Pioneers Initiative)
-- 📫 Reach me at: **mohamed.gamil.khalaf1@gmail.com**
+* 🎓 **Computer Science Student** at **Ain Shams University** (Expected Grad: July 2027)
+* 🚀 Specialized in **Cross-Platform Mobile Development (Flutter)** & **.NET Backend Development**
+* 💻 Experienced in **Low-Level Systems, Memory Management, Operating Systems, & Backend Engineering**
+* 📜 **DEPI Graduate** — Cross-Platform Mobile Track (Digital Egypt Pioneers Initiative)
+* 📫 Reach me at: **[mohamed.gamil.khalaf1@gmail.com](mailto:mohamed.gamil.khalaf1@gmail.com)**
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### 📋 Languages
-[![My Skills](https://skillicons.dev/icons?i=dart,java,cpp,c,python,js,postgres,mysql)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=dart,cs,cpp,c,python,js,postgres,mysql)](https://skillicons.dev)
 
 #### 🚀 Frameworks, Architecture & Tools
-[![My Skills](https://skillicons.dev/icons?i=flutter,spring,firebase,git,github,docker,maven,postman)](https://skillicons.dev)
 
-> **Architectures & Paradigms:** Clean Architecture • BLoC / Cubit • MVVM • RESTful APIs • OOP • SOLID Principles • Microservices Basics
+[![My Skills](https://skillicons.dev/icons?i=flutter,dotnet,firebase,git,github,docker,postman)](https://skillicons.dev)
+
+> **Backend:** ASP.NET Core • Web API • Entity Framework Core • LINQ • SQL Server • RESTful APIs
+>
+> **Architectures & Paradigms:** Clean Architecture • BLoC / Cubit • MVVM • OOP • SOLID Principles • Dependency Injection • Repository Pattern • Microservices Basics
 
 ---
 
 ### 🌟 Featured Projects
 
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| **ServiMarket & Bookly** | `Flutter` `Dart` `BLoC` `Firebase` `Dio` `Hive` | Scalable cross-platform apps built with **Clean Architecture** & **MVVM**, integrating real-time backends, REST APIs, and local caching. |
-| **Faculty Operating System (FOS)** | `C` `Assembly` `OS Kernel` | Custom Kernel-level modules covering dynamic memory allocation (`kmalloc`/`kfree`), page replacement algorithms (LRU/Clock), and CPU scheduling. |
-| **E-Commerce / Banking API** | `Java` `Spring Boot` `PostgreSQL` | Secure RESTful API implementing **Spring Security & JWT**, **Spring Data JPA**, and **Clean Architecture**. |
-| **Wen Meni Wasalny** | `C++` `Qt` `Graph Theory` | Map navigation GUI application utilizing **Dijkstra's Algorithm**, **BFS**, and **DFS** for optimized route discovery. |
+| Project                            | Stack                                             | Description                                                                                                                                               |
+| :--------------------------------- | :------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **ServiMarket & Bookly**           | `Flutter` `Dart` `BLoC` `Firebase` `Dio` `Hive`   | Scalable cross-platform apps built with **Clean Architecture** & **MVVM**, integrating real-time backends, REST APIs, and local caching.                  |
+| **Faculty Operating System (FOS)** | `C` `Assembly` `OS Kernel`                        | Custom Kernel-level modules covering dynamic memory allocation (`kmalloc`/`kfree`), page replacement algorithms (LRU/Clock), and CPU scheduling.          |
+| **E-Commerce / Banking API**       | `C#` `.NET` `ASP.NET Core` `SQL Server` `EF Core` | Secure RESTful API implementing **ASP.NET Core Web API**, **Entity Framework Core**, authentication & authorization, **JWT**, and **Clean Architecture**. |
+| **Wen Meni Wasalny**               | `C++` `Qt` `Graph Theory`                         | Map navigation GUI application utilizing **Dijkstra's Algorithm**, **BFS**, and **DFS** for optimized route discovery.                                    |
 
 ---
 

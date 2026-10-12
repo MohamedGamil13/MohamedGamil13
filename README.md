@@ -10,13 +10,13 @@ If you use or refer to this project, please give proper credit. Thanks & best of
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamedgamil13/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamedgamil13/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/MohamedGamil13" target="_blank">
+  <a href="https://github.com/MohamedGamil13">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/13JT6s2C2yHemQWlDHTvTtCL5HP7TDsRW/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1bKQK9hSTXt0lgKdKND0lQj7Wxg_UuIdb/view?usp=drive_link">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-2E8B57?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
   <a href="mailto:mohamed.gamil.khalaf1@gmail.com">
@@ -37,7 +37,7 @@ If you use or refer to this project, please give proper credit. Thanks & best of
 - 💻 Experienced in **Low-Level Systems, Memory Management, Operating Systems, and Backend Engineering**.
 - 📜 **DEPI Graduate** — Cross-Platform Mobile Development Track (Digital Egypt Pioneers Initiative).
 - 📫 Reach me at: **[mohamed.gamil.khalaf1@gmail.com](mailto:mohamed.gamil.khalaf1@gmail.com)**.
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/13JT6s2C2yHemQWlDHTvTtCL5HP7TDsRW/view)**.
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/1bKQK9hSTXt0lgKdKND0lQj7Wxg_UuIdb/view?usp=drive_link)**.
 
 ---
 
@@ -82,16 +82,16 @@ If you use or refer to this project, please give proper credit. Thanks & best of
 ### 🚀 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamedgamil13/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamedgamil13/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:mohamed.gamil.khalaf1@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-  <a href="https://github.com/MohamedGamil13" target="_blank">
+  <a href="https://github.com/MohamedGamil13">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-  <a href="https://drive.google.com/file/d/13JT6s2C2yHemQWlDHTvTtCL5HP7TDsRW/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1bKQK9hSTXt0lgKdKND0lQj7Wxg_UuIdb/view?usp=drive_link">
     <img src="https://img.shields.io/badge/View_My_Resume-2E8B57?style=for-the-badge&logo=googledrive&logoColor=white" alt="View My Resume" />
   </a>
 </p>

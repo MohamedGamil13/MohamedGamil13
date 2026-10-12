@@ -14,7 +14,7 @@ If you use or refer to this project, please give proper credit. Thanks & best of
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/MohamedGamil13">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="GitHub" src="https://drive.google.com/file/d/1bKQK9hSTXt0lgKdKND0lQj7Wxg_UuIdb/view?usp=sharing" />
   </a>
   <a href="https://drive.google.com/drive/u/0/folders/1PafV085Lep3y6F4-HMqkJnSte3sZXDxn">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />

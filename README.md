@@ -17,7 +17,7 @@ If you use or refer to this project, please give proper credit. Thanks & best of
     <img alt="GitHub" src="https://drive.google.com/file/d/1bKQK9hSTXt0lgKdKND0lQj7Wxg_UuIdb/view?usp=sharing" />
   </a>
   <a href="https://drive.google.com/drive/u/0/folders/1PafV085Lep3y6F4-HMqkJnSte3sZXDxn">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+    <img alt="Resume" src="https://drive.google.com/file/d/1bKQK9hSTXt0lgKdKND0lQj7Wxg_UuIdb/view?usp=sharing" />
   </a>
   <a href="mailto:mohamed.gamil.khalaf1@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />

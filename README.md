@@ -1,13 +1,12 @@
 <!--
 ⚠️ This portfolio was built with dedication and effort by Mohamed Gamil.
 If you use or refer to this project, please give proper credit. Thanks & best of luck 🚀
-
 -->
 
 <h1 align="center">👋 Hello World! I'm Mohamed Gamil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=500&lines=.NET+%26+Backend+Developer;Flutter+%26+Mobile+Developer;Systems+%26+Backend+Engineer;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=500&lines=.NET+%26+Backend+Developer;ASP.NET+Core+%26+Web+APIs;Software+%26+Systems+Engineer;Continuous+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +16,7 @@ If you use or refer to this project, please give proper credit. Thanks & best of
   <a href="https://github.com/MohamedGamil13">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/18nH2J8CnzgXVhSjwSiXpRzKl1Bm4dbsz/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1bKQK9hSTXt0lgKdKND0lQj7Wxg_UuIdb/view?usp=drive_link">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-2E8B57?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
   <a href="mailto:mohamed.gamil.khalaf1@gmail.com">
@@ -34,8 +33,10 @@ If you use or refer to this project, please give proper credit. Thanks & best of
 </p>
 
 - 🎓 **Computer Science Student** at **Ain Shams University** (Expected Graduation: July 2027).
-- 🚀 Specialized in **Cross-Platform Mobile Development (Flutter)** and **.NET Backend Development**.
-- 💻 Experienced in **Low-Level Systems, Memory Management, Operating Systems, and Backend Engineering**.
+- 🎯 Specialized in **Backend Development & Systems Engineering**, focusing on the **.NET Ecosystem (C#, ASP.NET Core, EF Core)**.
+- 💡 Strong expertise in building **scalable RESTful APIs**, microservices fundamentals, secure authentication, and database design.
+- 💻 Deep understanding of **Low-Level Systems, Memory Management, Operating Systems**, and performance optimization.
+- 🚀 Additional experience in **Cross-Platform Mobile Development (Flutter)**, giving me a solid end-to-end perspective when collaborating with frontend teams.
 - 📜 **DEPI Graduate** — Cross-Platform Mobile Development Track (Digital Egypt Pioneers Initiative).
 - 📫 Reach me at: **[mohamed.gamil.khalaf1@gmail.com](mailto:mohamed.gamil.khalaf1@gmail.com)**.
 - 📄 Check out my **[Resume](https://drive.google.com/file/d/1bKQK9hSTXt0lgKdKND0lQj7Wxg_UuIdb/view?usp=drive_link)**.
@@ -44,20 +45,21 @@ If you use or refer to this project, please give proper credit. Thanks & best of
 
 ### 🛠️ Tech Stack
 
-#### 📋 Languages & Databases
+#### 📋 Backend & Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,cs,cpp,c,python,js,postgres,mysql" alt="Languages and databases" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,cpp,c,python,js" alt="Backend & Languages" />
 </p>
 
 #### 🚀 Frameworks, Architecture & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dotnet,firebase,git,github,docker,postman" alt="Frameworks and development tools" />
+  <img src="https://skillicons.dev/icons?i=dotnet,docker,postman,firebase,git,github,flutter" alt="Tools & Technologies" />
 </p>
 
-- **Backend:** ASP.NET Core • Web API • Entity Framework Core • LINQ • SQL Server • RESTful APIs
-- **Architecture & Design:** Clean Architecture • BLoC / Cubit • MVVM • OOP • SOLID Principles • Dependency Injection • Repository Pattern • Microservices Fundamentals
+- **Backend Engineering:** C# • ASP.NET Core Web API • Entity Framework Core • LINQ • SQL Server / PostgreSQL • RESTful APIs • JWT Auth & Security
+- **Architecture & Design Principles:** Clean Architecture • Domain-Driven Design (DDD) Fundamentals • Repository Pattern • Dependency Injection • OOP • SOLID Principles • Microservices Fundamentals
+- **Systems & Tools:** Docker • Git & GitHub • Postman • Memory Management & OS Kernels
 
 ---
 
@@ -65,10 +67,10 @@ If you use or refer to this project, please give proper credit. Thanks & best of
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **ServiMarket & Bookly** | `Flutter` `Dart` `BLoC` `Firebase` `Dio` `Hive` | Cross-platform applications built using Clean Architecture and MVVM, integrating backend services, REST APIs, and local caching. |
-| **Faculty Operating System (FOS)** | `C` `Assembly` `Operating Systems` | Kernel-level modules covering dynamic memory allocation (`kmalloc` / `kfree`), page replacement algorithms (LRU / Clock), and CPU scheduling. |
-| **E-Commerce / Banking API** | `C#` `.NET` `ASP.NET Core` `SQL Server` `EF Core` | Secure RESTful API featuring authentication and authorization, JWT, Entity Framework Core, and Clean Architecture. |
-| **Wen Meni Wasalny** | `C++` `Qt` `Graph Theory` | Map navigation GUI application using Dijkstra's algorithm, BFS, and DFS for route discovery. |
+| **E-Commerce / Banking REST API** | `C#` `.NET` `ASP.NET Core` `EF Core` `SQL Server` | Robust and secure backend service implementing **Clean Architecture**, JWT-based authentication/authorization, Repository Pattern, and database migrations. |
+| **Faculty Operating System (FOS)** | `C` `Assembly` `Operating Systems` | Low-level kernel modules dealing with dynamic memory allocation (`kmalloc` / `kfree`), page replacement algorithms (LRU / Clock), and CPU scheduling algorithms. |
+| **ServiMarket & Bookly Backends / Apps** | `Flutter` `Dart` `BLoC` `Firebase` `REST API` | Cross-platform mobile applications integrating backend services, complex API contracts, local caching, and state management. |
+| **Wen Meni Wasalny** | `C++` `Qt` `Graph Theory` | Desktop navigation GUI application leveraging graph algorithms (Dijkstra, BFS, DFS) for optimal pathfinding. |
 
 ---
 

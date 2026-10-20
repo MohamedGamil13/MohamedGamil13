@@ -7,7 +7,7 @@ If you use or refer to this project, please give proper credit. Thanks & best of
 <h1 align="center">👋 Hello World! I'm Mohamed Gamil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=500&lines=Flutter+%26+Mobile+Developer;.NET+%26+Backend+Developer;Systems+%26+Backend+Engineer;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=500&lines=.NET+%26+Backend+Developer;Flutter+%26+Mobile+Developer;Systems+%26+Backend+Engineer;Continuous+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">

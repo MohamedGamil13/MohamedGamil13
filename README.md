@@ -1,71 +1,104 @@
-# Hi, I'm Mohamed Gamil 👋
+<!--
+⚠️ This portfolio was built with dedication and effort by Mohamed Gamil.
+If you use or refer to this project, please give proper credit. Thanks & best of luck 🚀
+-->
 
-**Backend & Systems Engineer · .NET Specialist**
+<h1 align="center">👋 Hello World! I'm Mohamed Gamil</h1>
 
-I was the kid who couldn't stop asking *"how does this actually work under the hood?"* That curiosity never left — it evolved into building high-performance backend platforms, low-level system kernels, and cross-platform applications.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=500&lines=.NET+%26+Backend+Developer;ASP.NET+Core+%26+Web+APIs;Software+%26+Systems+Engineer;Continuous+Learner" alt="Typing SVG" />
+</p>
 
-As a **Computer Science Student at Ain Shams University**, I focus on building robust, scalable software architectures. Whether it's crafting distributed backend systems using **C# & .NET Core** or digging into **Operating System Kernel allocators in C**, I thrive at the intersection of application performance and low-level engineering.
-
-Beyond writing code, I'm passionate about **community leadership** — having led technical workshops, built automated management systems, and mentored hundreds of aspiring developers as **Head of the Flutter Committee at ConnectX** and **HR Team Member at MSP Tech Club**.
-
----
-
-## 🚀 What I Do
-
-- ⚡ **Backend & Systems Engineer** — Architecting scalable RESTful APIs & services using C#, ASP.NET Core, EF Core, Redis & SQL Server
-- 🛠️ **Systems & Kernel Developer** — Building operating system kernels (FOS), memory allocators (`kmalloc`/`kfree`), & page replacement algorithms (C/Assembly)
-- 📱 **Cross-Platform Developer** — DEPI Graduate building high-quality mobile apps with Flutter & Firebase
-- 👨‍🏫 **Technical Mentor & Community Leader** — Led workshops and mentored 100+ developers at ConnectX & MSP Tech Club
-
----
-
-## 🛠️ Tech Stack
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-**C# · .NET Core · Entity Framework Core · SQL Server · Clean Architecture · Redis · RabbitMQ · Docker · C/C++ · Flutter**
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamedgamil13/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/MohamedGamil13">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1bKQK9hSTXt0lgKdKND0lQj7Wxg_UuIdb/view?usp=drive_link">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-2E8B57?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+  <a href="mailto:mohamed.gamil.khalaf1@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📊 Impact & Milestones
+### 📖 About Me
 
-| | |
-|---|---|
-| 🎓 **Education** | CS Senior at Ain Shams University (Exp. July 2027) |
-| 📜 **Certifications** | DEPI Graduate (Cross-Platform Mobile Track) |
-| 👨‍💻 **Developers Mentored** | 100+ students through ConnectX Flutter Committee |
-| 🚀 **Projects Engineered** | 10+ Enterprise APIs, Kernel Allocators & Mobile Apps |
-| 🏢 **Leadership Roles** | Head of Flutter Committee (ConnectX) & HR Member (MSP Tech Club) |
+<p align="center">
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Developer coding animation" />
+</p>
 
----
-
-## 🌟 Featured Projects
-
-- **[Incident Intelligence Platform](#)** — AI-powered incident management backend · ASP.NET Core · Clean Architecture · Redis · RabbitMQ · RAG/LLM
-- **[E-Commerce & Banking API](#)** — Scalable RESTful backend · ASP.NET Core · EF Core · JWT Security · SQL Server · Clean Architecture
-- **[Faculty Operating System (FOS)](#)** — OS Kernel in C & Assembly · Dynamic memory allocation (`kmalloc`/`kfree`) · LRU/Clock page replacement
-- **[ServiMarket & Bookly App](#)** — Service marketplace & reader apps · Flutter · BLoC · Firebase · REST APIs · Local Caching
-- **[Wen Meni Wasalny](#)** — Map navigation GUI application · C++ · Qt · Dijkstra's Algorithm, BFS & DFS
+- 🎓 **Computer Science Student** at **Ain Shams University** (Expected Graduation: July 2027).
+- 🎯 Specialized in **Backend Development & Systems Engineering**, focusing on the **.NET Ecosystem (C#, ASP.NET Core, EF Core)**.
+- 💡 Strong expertise in building **scalable RESTful APIs**, microservices fundamentals, secure authentication, and database design.
+- 💻 Deep understanding of **Low-Level Systems, Memory Management, Operating Systems**, and performance optimization.
+- 🚀 Additional experience in **Cross-Platform Mobile Development (Flutter)**, giving me a solid end-to-end perspective when collaborating with frontend teams.
+- 📜 **DEPI Graduate** — Cross-Platform Mobile Development Track (Digital Egypt Pioneers Initiative).
+- 📫 Reach me at: **[mohamed.gamil.khalaf1@gmail.com](mailto:mohamed.gamil.khalaf1@gmail.com)**.
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/1bKQK9hSTXt0lgKdKND0lQj7Wxg_UuIdb/view?usp=drive_link)**.
 
 ---
 
-## 🏆 Highlights & Leadership
+### 🛠️ Tech Stack
 
-- 🥇 **Head of Flutter Committee** at **ConnectX** — Delivered technical workshops on Dart, Flutter & API integration while mentoring junior developers.
-- 🏅 **Digital Egypt Pioneers Initiative (DEPI) Graduate** — Recognized for exceptional performance in Cross-Platform Mobile Development.
-- 🎯 **Selected for Google's "Build with AI: Masr Edition"** — Participant in AI integration & developer initiatives.
-- 💼 **Former HR Team Member** at **MSP Tech Club Ain Shams** — Automated recruitment processes and led technical onboarding.
+#### 📋 Backend & Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,cpp,c,python,js" alt="Backend & Languages" />
+</p>
+
+#### 🚀 Frameworks, Architecture & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,docker,postman,firebase,git,github,flutter" alt="Tools & Technologies" />
+</p>
+
+- **Backend Engineering:** C# • ASP.NET Core Web API • Entity Framework Core • LINQ • SQL Server / PostgreSQL • RESTful APIs • JWT Auth & Security
+- **Architecture & Design Principles:** Clean Architecture • Domain-Driven Design (DDD) Fundamentals • Repository Pattern • Dependency Injection • OOP • SOLID Principles • Microservices Fundamentals
+- **Systems & Tools:** Docker • Git & GitHub • Postman • Memory Management & OS Kernels
 
 ---
 
-## 📬 Connect
+### 🌟 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedgamil13/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MohamedGamil13)
-[![Resume](https://img.shields.io/badge/Resume-2E8B57?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1bKQK9hSTXt0lgKdKND0lQj7Wxg_UuIdb/view?usp=drive_link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamed.gamil.khalaf1@gmail.com)
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **E-Commerce / Banking REST API** | `C#` `.NET` `ASP.NET Core` `EF Core` `SQL Server` | Robust and secure backend service implementing **Clean Architecture**, JWT-based authentication/authorization, Repository Pattern, and database migrations. |
+| **Faculty Operating System (FOS)** | `C` `Assembly` `Operating Systems` | Low-level kernel modules dealing with dynamic memory allocation (`kmalloc` / `kfree`), page replacement algorithms (LRU / Clock), and CPU scheduling algorithms. |
+| **ServiMarket & Bookly Backends / Apps** | `Flutter` `Dart` `BLoC` `Firebase` `REST API` | Cross-platform mobile applications integrating backend services, complex API contracts, local caching, and state management. |
+| **Wen Meni Wasalny** | `C++` `Qt` `Graph Theory` | Desktop navigation GUI application leveraging graph algorithms (Dijkstra, BFS, DFS) for optimal pathfinding. |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedGamil13&theme=dark" alt="Mohamed Gamil's GitHub streak stats" />
+</p>
+
+---
+
+### 🚀 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamedgamil13/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohamed.gamil.khalaf1@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/MohamedGamil13">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://drive.google.com/file/d/1bKQK9hSTXt0lgKdKND0lQj7Wxg_UuIdb/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/View_My_Resume-2E8B57?style=for-the-badge&logo=googledrive&logoColor=white" alt="View My Resume" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding animation" />
+</p>

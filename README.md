@@ -26,32 +26,32 @@ If you use or refer to this project, please give proper credit. Thanks & best of
 
 ---
 
-### 📖 About Me
+###  About Me
 
 <p align="center">
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Developer coding animation" />
 </p>
 
-- 🎓 **Computer Science Student** at **Ain Shams University** (Expected Graduation: July 2027).
-- 🎯 Specialized in **Backend Development & Systems Engineering**, focusing on the **.NET Ecosystem (C#, ASP.NET Core, EF Core)**.
-- 💡 Strong expertise in building **scalable RESTful APIs**, microservices fundamentals, secure authentication, and database design.
-- 💻 Deep understanding of **Low-Level Systems, Memory Management, Operating Systems**, and performance optimization.
-- 🚀 Additional experience in **Cross-Platform Mobile Development (Flutter)**, giving me a solid end-to-end perspective when collaborating with frontend teams.
-- 📜 **DEPI Graduate** — Cross-Platform Mobile Development Track (Digital Egypt Pioneers Initiative).
-- 📫 Reach me at: **[mohamed.gamil.khalaf1@gmail.com](mailto:mohamed.gamil.khalaf1@gmail.com)**.
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/1bKQK9hSTXt0lgKdKND0lQj7Wxg_UuIdb/view?usp=drive_link)**.
+-  **Computer Science Student** at **Ain Shams University** (Expected Graduation: July 2027).
+-  Specialized in **Backend Development & Systems Engineering**, focusing on the **.NET Ecosystem (C#, ASP.NET Core, EF Core)**.
+-  Strong expertise in building **scalable RESTful APIs**, microservices fundamentals, secure authentication, and database design.
+-  Deep understanding of **Low-Level Systems, Memory Management, Operating Systems**, and performance optimization.
+-  Additional experience in **Cross-Platform Mobile Development (Flutter)**, giving me a solid end-to-end perspective when collaborating with frontend teams.
+-  **DEPI Graduate** — Cross-Platform Mobile Development Track (Digital Egypt Pioneers Initiative).
+-  Reach me at: **[mohamed.gamil.khalaf1@gmail.com](mailto:mohamed.gamil.khalaf1@gmail.com)**.
+-  Check out my **[Resume](https://drive.google.com/file/d/1bKQK9hSTXt0lgKdKND0lQj7Wxg_UuIdb/view?usp=drive_link)**.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
-#### 📋 Backend & Languages
+####  Backend & Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,cpp,c,python,js" alt="Backend & Languages" />
 </p>
 
-#### 🚀 Frameworks, Architecture & Tools
+####  Frameworks, Architecture & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,docker,postman,firebase,git,github,flutter" alt="Tools & Technologies" />
@@ -63,7 +63,7 @@ If you use or refer to this project, please give proper credit. Thanks & best of
 
 ---
 
-### 🌟 Featured Projects
+###  Featured Projects
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
@@ -74,7 +74,7 @@ If you use or refer to this project, please give proper credit. Thanks & best of
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedGamil13&theme=dark" alt="Mohamed Gamil's GitHub streak stats" />
@@ -82,7 +82,7 @@ If you use or refer to this project, please give proper credit. Thanks & best of
 
 ---
 
-### 🚀 Let's Connect
+###  Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamedgamil13/">

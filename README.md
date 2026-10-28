@@ -32,7 +32,7 @@ If you use or refer to this project, please give proper credit. Thanks & best of
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Developer coding animation" />
 </p>
 
--  **Computer Science Student** at **Ain Shams University** (Expected Graduation: July 2027).
+-  **Software Engineer & Computer Science Student** at **Ain Shams University** (Expected Graduation: July 2027).
 -  Specialized in **Backend Development & Systems Engineering**, focusing on the **.NET Ecosystem (C#, ASP.NET Core, EF Core)**.
 -  Strong expertise in building **scalable RESTful APIs**, microservices fundamentals, secure authentication, and database design.
 -  Deep understanding of **Low-Level Systems, Memory Management, Operating Systems**, and performance optimization.

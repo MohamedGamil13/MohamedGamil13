@@ -3,7 +3,7 @@
 If you use or refer to this project, please give proper credit. Thanks & best of luck 🚀
 -->
 
-<h1 align="center">👋 Hello World! I'm Mohamed Gamil</h1>
+<h1 align="center">👋 Hello World! I'm Mohamed Gamil Khalaf</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=500&lines=.NET+%26+Backend+Developer;ASP.NET+Core+%26+Web+APIs;Software+%26+Systems+Engineer;Continuous+Learner" alt="Typing SVG" />
